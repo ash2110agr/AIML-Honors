@@ -1,0 +1,5 @@
+# Assignment 5
+
+Python decorator for logging function inputs and outputs.
+
+Run: `python decorators.py`
